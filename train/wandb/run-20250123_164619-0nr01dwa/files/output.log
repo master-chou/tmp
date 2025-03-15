@@ -1,0 +1,430 @@
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Total rpe parameters: 1044
+Total cpe parameters: 21504
+Trainable parameters:
+positional_embedding
+text_projection
+logit_scale
+visual.module.class_embedding
+visual.module.positional_embedding
+visual.module.proj
+visual.module.conv1.weight
+visual.module.ln_pre.weight
+visual.module.ln_pre.bias
+visual.module.transformer.resblocks.0.attn.rpe.rpe_table
+visual.module.transformer.resblocks.0.attn.in_proj.weight
+visual.module.transformer.resblocks.0.attn.in_proj.bias
+visual.module.transformer.resblocks.0.attn.out_proj.weight
+visual.module.transformer.resblocks.0.attn.out_proj.bias
+visual.module.transformer.resblocks.0.ln_1.weight
+visual.module.transformer.resblocks.0.ln_1.bias
+visual.module.transformer.resblocks.0.mlp.c_fc.weight
+visual.module.transformer.resblocks.0.mlp.c_fc.bias
+visual.module.transformer.resblocks.0.mlp.c_proj.weight
+visual.module.transformer.resblocks.0.mlp.c_proj.bias
+visual.module.transformer.resblocks.0.ln_2.weight
+visual.module.transformer.resblocks.0.ln_2.bias
+visual.module.transformer.resblocks.0.ln_cpe.weight
+visual.module.transformer.resblocks.0.ln_cpe.bias
+visual.module.transformer.resblocks.0.cpe.conv3d.weight
+visual.module.transformer.resblocks.0.cpe.conv3d.bias
+visual.module.transformer.resblocks.1.attn.rpe.rpe_table
+visual.module.transformer.resblocks.1.attn.in_proj.weight
+visual.module.transformer.resblocks.1.attn.in_proj.bias
+visual.module.transformer.resblocks.1.attn.out_proj.weight
+visual.module.transformer.resblocks.1.attn.out_proj.bias
+visual.module.transformer.resblocks.1.ln_1.weight
+visual.module.transformer.resblocks.1.ln_1.bias
+visual.module.transformer.resblocks.1.mlp.c_fc.weight
+visual.module.transformer.resblocks.1.mlp.c_fc.bias
+visual.module.transformer.resblocks.1.mlp.c_proj.weight
+visual.module.transformer.resblocks.1.mlp.c_proj.bias
+visual.module.transformer.resblocks.1.ln_2.weight
+visual.module.transformer.resblocks.1.ln_2.bias
+visual.module.transformer.resblocks.1.ln_cpe.weight
+visual.module.transformer.resblocks.1.ln_cpe.bias
+visual.module.transformer.resblocks.1.cpe.conv3d.weight
+visual.module.transformer.resblocks.1.cpe.conv3d.bias
+visual.module.transformer.resblocks.2.attn.rpe.rpe_table
+visual.module.transformer.resblocks.2.attn.in_proj.weight
+visual.module.transformer.resblocks.2.attn.in_proj.bias
+visual.module.transformer.resblocks.2.attn.out_proj.weight
+visual.module.transformer.resblocks.2.attn.out_proj.bias
+visual.module.transformer.resblocks.2.ln_1.weight
+visual.module.transformer.resblocks.2.ln_1.bias
+visual.module.transformer.resblocks.2.mlp.c_fc.weight
+visual.module.transformer.resblocks.2.mlp.c_fc.bias
+visual.module.transformer.resblocks.2.mlp.c_proj.weight
+visual.module.transformer.resblocks.2.mlp.c_proj.bias
+visual.module.transformer.resblocks.2.ln_2.weight
+visual.module.transformer.resblocks.2.ln_2.bias
+visual.module.transformer.resblocks.2.ln_cpe.weight
+visual.module.transformer.resblocks.2.ln_cpe.bias
+visual.module.transformer.resblocks.2.cpe.conv3d.weight
+visual.module.transformer.resblocks.2.cpe.conv3d.bias
+visual.module.transformer.resblocks.3.attn.rpe.rpe_table
+visual.module.transformer.resblocks.3.attn.in_proj.weight
+visual.module.transformer.resblocks.3.attn.in_proj.bias
+visual.module.transformer.resblocks.3.attn.out_proj.weight
+visual.module.transformer.resblocks.3.attn.out_proj.bias
+visual.module.transformer.resblocks.3.ln_1.weight
+visual.module.transformer.resblocks.3.ln_1.bias
+visual.module.transformer.resblocks.3.mlp.c_fc.weight
+visual.module.transformer.resblocks.3.mlp.c_fc.bias
+visual.module.transformer.resblocks.3.mlp.c_proj.weight
+visual.module.transformer.resblocks.3.mlp.c_proj.bias
+visual.module.transformer.resblocks.3.ln_2.weight
+visual.module.transformer.resblocks.3.ln_2.bias
+visual.module.transformer.resblocks.3.ln_cpe.weight
+visual.module.transformer.resblocks.3.ln_cpe.bias
+visual.module.transformer.resblocks.3.cpe.conv3d.weight
+visual.module.transformer.resblocks.3.cpe.conv3d.bias
+visual.module.transformer.resblocks.4.attn.rpe.rpe_table
+visual.module.transformer.resblocks.4.attn.in_proj.weight
+visual.module.transformer.resblocks.4.attn.in_proj.bias
+visual.module.transformer.resblocks.4.attn.out_proj.weight
+visual.module.transformer.resblocks.4.attn.out_proj.bias
+visual.module.transformer.resblocks.4.ln_1.weight
+visual.module.transformer.resblocks.4.ln_1.bias
+visual.module.transformer.resblocks.4.mlp.c_fc.weight
+visual.module.transformer.resblocks.4.mlp.c_fc.bias
+visual.module.transformer.resblocks.4.mlp.c_proj.weight
+visual.module.transformer.resblocks.4.mlp.c_proj.bias
+visual.module.transformer.resblocks.4.ln_2.weight
+visual.module.transformer.resblocks.4.ln_2.bias
+visual.module.transformer.resblocks.4.ln_cpe.weight
+visual.module.transformer.resblocks.4.ln_cpe.bias
+visual.module.transformer.resblocks.4.cpe.conv3d.weight
+visual.module.transformer.resblocks.4.cpe.conv3d.bias
+visual.module.transformer.resblocks.5.attn.rpe.rpe_table
+visual.module.transformer.resblocks.5.attn.in_proj.weight
+visual.module.transformer.resblocks.5.attn.in_proj.bias
+visual.module.transformer.resblocks.5.attn.out_proj.weight
+visual.module.transformer.resblocks.5.attn.out_proj.bias
+visual.module.transformer.resblocks.5.ln_1.weight
+visual.module.transformer.resblocks.5.ln_1.bias
+visual.module.transformer.resblocks.5.mlp.c_fc.weight
+visual.module.transformer.resblocks.5.mlp.c_fc.bias
+visual.module.transformer.resblocks.5.mlp.c_proj.weight
+visual.module.transformer.resblocks.5.mlp.c_proj.bias
+visual.module.transformer.resblocks.5.ln_2.weight
+visual.module.transformer.resblocks.5.ln_2.bias
+visual.module.transformer.resblocks.5.ln_cpe.weight
+visual.module.transformer.resblocks.5.ln_cpe.bias
+visual.module.transformer.resblocks.5.cpe.conv3d.weight
+visual.module.transformer.resblocks.5.cpe.conv3d.bias
+visual.module.transformer.resblocks.6.attn.rpe.rpe_table
+visual.module.transformer.resblocks.6.attn.in_proj.weight
+visual.module.transformer.resblocks.6.attn.in_proj.bias
+visual.module.transformer.resblocks.6.attn.out_proj.weight
+visual.module.transformer.resblocks.6.attn.out_proj.bias
+visual.module.transformer.resblocks.6.ln_1.weight
+visual.module.transformer.resblocks.6.ln_1.bias
+visual.module.transformer.resblocks.6.mlp.c_fc.weight
+visual.module.transformer.resblocks.6.mlp.c_fc.bias
+visual.module.transformer.resblocks.6.mlp.c_proj.weight
+visual.module.transformer.resblocks.6.mlp.c_proj.bias
+visual.module.transformer.resblocks.6.ln_2.weight
+visual.module.transformer.resblocks.6.ln_2.bias
+visual.module.transformer.resblocks.6.ln_cpe.weight
+visual.module.transformer.resblocks.6.ln_cpe.bias
+visual.module.transformer.resblocks.6.cpe.conv3d.weight
+visual.module.transformer.resblocks.6.cpe.conv3d.bias
+visual.module.transformer.resblocks.7.attn.rpe.rpe_table
+visual.module.transformer.resblocks.7.attn.in_proj.weight
+visual.module.transformer.resblocks.7.attn.in_proj.bias
+visual.module.transformer.resblocks.7.attn.out_proj.weight
+visual.module.transformer.resblocks.7.attn.out_proj.bias
+visual.module.transformer.resblocks.7.ln_1.weight
+visual.module.transformer.resblocks.7.ln_1.bias
+visual.module.transformer.resblocks.7.mlp.c_fc.weight
+visual.module.transformer.resblocks.7.mlp.c_fc.bias
+visual.module.transformer.resblocks.7.mlp.c_proj.weight
+visual.module.transformer.resblocks.7.mlp.c_proj.bias
+visual.module.transformer.resblocks.7.ln_2.weight
+visual.module.transformer.resblocks.7.ln_2.bias
+visual.module.transformer.resblocks.7.ln_cpe.weight
+visual.module.transformer.resblocks.7.ln_cpe.bias
+visual.module.transformer.resblocks.7.cpe.conv3d.weight
+visual.module.transformer.resblocks.7.cpe.conv3d.bias
+visual.module.transformer.resblocks.8.attn.rpe.rpe_table
+visual.module.transformer.resblocks.8.attn.in_proj.weight
+visual.module.transformer.resblocks.8.attn.in_proj.bias
+visual.module.transformer.resblocks.8.attn.out_proj.weight
+visual.module.transformer.resblocks.8.attn.out_proj.bias
+visual.module.transformer.resblocks.8.ln_1.weight
+visual.module.transformer.resblocks.8.ln_1.bias
+visual.module.transformer.resblocks.8.mlp.c_fc.weight
+visual.module.transformer.resblocks.8.mlp.c_fc.bias
+visual.module.transformer.resblocks.8.mlp.c_proj.weight
+visual.module.transformer.resblocks.8.mlp.c_proj.bias
+visual.module.transformer.resblocks.8.ln_2.weight
+visual.module.transformer.resblocks.8.ln_2.bias
+visual.module.transformer.resblocks.8.ln_cpe.weight
+visual.module.transformer.resblocks.8.ln_cpe.bias
+visual.module.transformer.resblocks.8.cpe.conv3d.weight
+visual.module.transformer.resblocks.8.cpe.conv3d.bias
+visual.module.transformer.resblocks.9.attn.rpe.rpe_table
+visual.module.transformer.resblocks.9.attn.in_proj.weight
+visual.module.transformer.resblocks.9.attn.in_proj.bias
+visual.module.transformer.resblocks.9.attn.out_proj.weight
+visual.module.transformer.resblocks.9.attn.out_proj.bias
+visual.module.transformer.resblocks.9.ln_1.weight
+visual.module.transformer.resblocks.9.ln_1.bias
+visual.module.transformer.resblocks.9.mlp.c_fc.weight
+visual.module.transformer.resblocks.9.mlp.c_fc.bias
+visual.module.transformer.resblocks.9.mlp.c_proj.weight
+visual.module.transformer.resblocks.9.mlp.c_proj.bias
+visual.module.transformer.resblocks.9.ln_2.weight
+visual.module.transformer.resblocks.9.ln_2.bias
+visual.module.transformer.resblocks.9.ln_cpe.weight
+visual.module.transformer.resblocks.9.ln_cpe.bias
+visual.module.transformer.resblocks.9.cpe.conv3d.weight
+visual.module.transformer.resblocks.9.cpe.conv3d.bias
+visual.module.transformer.resblocks.10.attn.rpe.rpe_table
+visual.module.transformer.resblocks.10.attn.in_proj.weight
+visual.module.transformer.resblocks.10.attn.in_proj.bias
+visual.module.transformer.resblocks.10.attn.out_proj.weight
+visual.module.transformer.resblocks.10.attn.out_proj.bias
+visual.module.transformer.resblocks.10.ln_1.weight
+visual.module.transformer.resblocks.10.ln_1.bias
+visual.module.transformer.resblocks.10.mlp.c_fc.weight
+visual.module.transformer.resblocks.10.mlp.c_fc.bias
+visual.module.transformer.resblocks.10.mlp.c_proj.weight
+visual.module.transformer.resblocks.10.mlp.c_proj.bias
+visual.module.transformer.resblocks.10.ln_2.weight
+visual.module.transformer.resblocks.10.ln_2.bias
+visual.module.transformer.resblocks.10.ln_cpe.weight
+visual.module.transformer.resblocks.10.ln_cpe.bias
+visual.module.transformer.resblocks.10.cpe.conv3d.weight
+visual.module.transformer.resblocks.10.cpe.conv3d.bias
+visual.module.transformer.resblocks.11.attn.rpe.rpe_table
+visual.module.transformer.resblocks.11.attn.in_proj.weight
+visual.module.transformer.resblocks.11.attn.in_proj.bias
+visual.module.transformer.resblocks.11.attn.out_proj.weight
+visual.module.transformer.resblocks.11.attn.out_proj.bias
+visual.module.transformer.resblocks.11.ln_1.weight
+visual.module.transformer.resblocks.11.ln_1.bias
+visual.module.transformer.resblocks.11.mlp.c_fc.weight
+visual.module.transformer.resblocks.11.mlp.c_fc.bias
+visual.module.transformer.resblocks.11.mlp.c_proj.weight
+visual.module.transformer.resblocks.11.mlp.c_proj.bias
+visual.module.transformer.resblocks.11.ln_2.weight
+visual.module.transformer.resblocks.11.ln_2.bias
+visual.module.transformer.resblocks.11.ln_cpe.weight
+visual.module.transformer.resblocks.11.ln_cpe.bias
+visual.module.transformer.resblocks.11.cpe.conv3d.weight
+visual.module.transformer.resblocks.11.cpe.conv3d.bias
+visual.module.ln_post.weight
+visual.module.ln_post.bias
+transformer.resblocks.0.attn.in_proj_weight
+transformer.resblocks.0.attn.in_proj_bias
+transformer.resblocks.0.attn.out_proj.weight
+transformer.resblocks.0.attn.out_proj.bias
+transformer.resblocks.0.ln_1.weight
+transformer.resblocks.0.ln_1.bias
+transformer.resblocks.0.mlp.c_fc.weight
+transformer.resblocks.0.mlp.c_fc.bias
+transformer.resblocks.0.mlp.c_proj.weight
+transformer.resblocks.0.mlp.c_proj.bias
+transformer.resblocks.0.ln_2.weight
+transformer.resblocks.0.ln_2.bias
+transformer.resblocks.1.attn.in_proj_weight
+transformer.resblocks.1.attn.in_proj_bias
+transformer.resblocks.1.attn.out_proj.weight
+transformer.resblocks.1.attn.out_proj.bias
+transformer.resblocks.1.ln_1.weight
+transformer.resblocks.1.ln_1.bias
+transformer.resblocks.1.mlp.c_fc.weight
+transformer.resblocks.1.mlp.c_fc.bias
+transformer.resblocks.1.mlp.c_proj.weight
+transformer.resblocks.1.mlp.c_proj.bias
+transformer.resblocks.1.ln_2.weight
+transformer.resblocks.1.ln_2.bias
+transformer.resblocks.2.attn.in_proj_weight
+transformer.resblocks.2.attn.in_proj_bias
+transformer.resblocks.2.attn.out_proj.weight
+transformer.resblocks.2.attn.out_proj.bias
+transformer.resblocks.2.ln_1.weight
+transformer.resblocks.2.ln_1.bias
+transformer.resblocks.2.mlp.c_fc.weight
+transformer.resblocks.2.mlp.c_fc.bias
+transformer.resblocks.2.mlp.c_proj.weight
+transformer.resblocks.2.mlp.c_proj.bias
+transformer.resblocks.2.ln_2.weight
+transformer.resblocks.2.ln_2.bias
+transformer.resblocks.3.attn.in_proj_weight
+transformer.resblocks.3.attn.in_proj_bias
+transformer.resblocks.3.attn.out_proj.weight
+transformer.resblocks.3.attn.out_proj.bias
+transformer.resblocks.3.ln_1.weight
+transformer.resblocks.3.ln_1.bias
+transformer.resblocks.3.mlp.c_fc.weight
+transformer.resblocks.3.mlp.c_fc.bias
+transformer.resblocks.3.mlp.c_proj.weight
+transformer.resblocks.3.mlp.c_proj.bias
+transformer.resblocks.3.ln_2.weight
+transformer.resblocks.3.ln_2.bias
+transformer.resblocks.4.attn.in_proj_weight
+transformer.resblocks.4.attn.in_proj_bias
+transformer.resblocks.4.attn.out_proj.weight
+transformer.resblocks.4.attn.out_proj.bias
+transformer.resblocks.4.ln_1.weight
+transformer.resblocks.4.ln_1.bias
+transformer.resblocks.4.mlp.c_fc.weight
+transformer.resblocks.4.mlp.c_fc.bias
+transformer.resblocks.4.mlp.c_proj.weight
+transformer.resblocks.4.mlp.c_proj.bias
+transformer.resblocks.4.ln_2.weight
+transformer.resblocks.4.ln_2.bias
+transformer.resblocks.5.attn.in_proj_weight
+transformer.resblocks.5.attn.in_proj_bias
+transformer.resblocks.5.attn.out_proj.weight
+transformer.resblocks.5.attn.out_proj.bias
+transformer.resblocks.5.ln_1.weight
+transformer.resblocks.5.ln_1.bias
+transformer.resblocks.5.mlp.c_fc.weight
+transformer.resblocks.5.mlp.c_fc.bias
+transformer.resblocks.5.mlp.c_proj.weight
+transformer.resblocks.5.mlp.c_proj.bias
+transformer.resblocks.5.ln_2.weight
+transformer.resblocks.5.ln_2.bias
+transformer.resblocks.6.attn.in_proj_weight
+transformer.resblocks.6.attn.in_proj_bias
+transformer.resblocks.6.attn.out_proj.weight
+transformer.resblocks.6.attn.out_proj.bias
+transformer.resblocks.6.ln_1.weight
+transformer.resblocks.6.ln_1.bias
+transformer.resblocks.6.mlp.c_fc.weight
+transformer.resblocks.6.mlp.c_fc.bias
+transformer.resblocks.6.mlp.c_proj.weight
+transformer.resblocks.6.mlp.c_proj.bias
+transformer.resblocks.6.ln_2.weight
+transformer.resblocks.6.ln_2.bias
+transformer.resblocks.7.attn.in_proj_weight
+transformer.resblocks.7.attn.in_proj_bias
+transformer.resblocks.7.attn.out_proj.weight
+transformer.resblocks.7.attn.out_proj.bias
+transformer.resblocks.7.ln_1.weight
+transformer.resblocks.7.ln_1.bias
+transformer.resblocks.7.mlp.c_fc.weight
+transformer.resblocks.7.mlp.c_fc.bias
+transformer.resblocks.7.mlp.c_proj.weight
+transformer.resblocks.7.mlp.c_proj.bias
+transformer.resblocks.7.ln_2.weight
+transformer.resblocks.7.ln_2.bias
+transformer.resblocks.8.attn.in_proj_weight
+transformer.resblocks.8.attn.in_proj_bias
+transformer.resblocks.8.attn.out_proj.weight
+transformer.resblocks.8.attn.out_proj.bias
+transformer.resblocks.8.ln_1.weight
+transformer.resblocks.8.ln_1.bias
+transformer.resblocks.8.mlp.c_fc.weight
+transformer.resblocks.8.mlp.c_fc.bias
+transformer.resblocks.8.mlp.c_proj.weight
+transformer.resblocks.8.mlp.c_proj.bias
+transformer.resblocks.8.ln_2.weight
+transformer.resblocks.8.ln_2.bias
+transformer.resblocks.9.attn.in_proj_weight
+transformer.resblocks.9.attn.in_proj_bias
+transformer.resblocks.9.attn.out_proj.weight
+transformer.resblocks.9.attn.out_proj.bias
+transformer.resblocks.9.ln_1.weight
+transformer.resblocks.9.ln_1.bias
+transformer.resblocks.9.mlp.c_fc.weight
+transformer.resblocks.9.mlp.c_fc.bias
+transformer.resblocks.9.mlp.c_proj.weight
+transformer.resblocks.9.mlp.c_proj.bias
+transformer.resblocks.9.ln_2.weight
+transformer.resblocks.9.ln_2.bias
+transformer.resblocks.10.attn.in_proj_weight
+transformer.resblocks.10.attn.in_proj_bias
+transformer.resblocks.10.attn.out_proj.weight
+transformer.resblocks.10.attn.out_proj.bias
+transformer.resblocks.10.ln_1.weight
+transformer.resblocks.10.ln_1.bias
+transformer.resblocks.10.mlp.c_fc.weight
+transformer.resblocks.10.mlp.c_fc.bias
+transformer.resblocks.10.mlp.c_proj.weight
+transformer.resblocks.10.mlp.c_proj.bias
+transformer.resblocks.10.ln_2.weight
+transformer.resblocks.10.ln_2.bias
+transformer.resblocks.11.attn.in_proj_weight
+transformer.resblocks.11.attn.in_proj_bias
+transformer.resblocks.11.attn.out_proj.weight
+transformer.resblocks.11.attn.out_proj.bias
+transformer.resblocks.11.ln_1.weight
+transformer.resblocks.11.ln_1.bias
+transformer.resblocks.11.mlp.c_fc.weight
+transformer.resblocks.11.mlp.c_fc.bias
+transformer.resblocks.11.mlp.c_proj.weight
+transformer.resblocks.11.mlp.c_proj.bias
+transformer.resblocks.11.ln_2.weight
+transformer.resblocks.11.ln_2.bias
+token_embedding.weight
+ln_final.weight
+ln_final.bias
+  0%|                                                                                    | 0/7251 [00:06<?, ?it/s]
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/home/aiops/wangzh/zss/AlphaCLIP/train/train/train_neg_rebutal.py", line 762, in <module>
+[rank0]:     trainer.train(common_pair=args.common_pair, resume=args.resume, amp=args.amp, warmup_length=args.warmup_length)
+[rank0]:   File "/home/aiops/wangzh/zss/AlphaCLIP/train/train/train_neg_rebutal.py", line 683, in train
+[rank0]:     loss = self.train_epoch(train_loader, test_loaders, epoch, start_iter=resume_iter, amp=amp)
+[rank0]:   File "/home/aiops/wangzh/zss/AlphaCLIP/train/train/train_neg_rebutal.py", line 385, in train_epoch
+[rank0]:     loss = self.inference(images, masks, posi_texts,neg_texts)
+[rank0]:   File "/home/aiops/wangzh/zss/AlphaCLIP/train/train/train_neg_rebutal.py", line 327, in inference
+[rank0]:     negative_text_features = self.model.encode_text(neg_texts)
+[rank0]:   File "/home/aiops/wangzh/zss/AlphaCLIP/alpha_clip_noall/model_new.py", line 884, in encode_text
+[rank0]:     x = self.transformer(x)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:   File "/home/aiops/wangzh/zss/AlphaCLIP/alpha_clip_noall/model_new.py", line 647, in forward
+[rank0]:     return self.resblocks(x)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/container.py", line 219, in forward
+[rank0]:     input = module(input)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:   File "/home/aiops/wangzh/zss/AlphaCLIP/alpha_clip_noall/model_new.py", line 636, in forward
+[rank0]:     x = x + self.mlp(self.ln_2(x))
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/container.py", line 219, in forward
+[rank0]:     input = module(input)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:   File "/home/aiops/wangzh/miniconda3/envs/depth/lib/python3.9/site-packages/torch/nn/modules/linear.py", line 117, in forward
+[rank0]:     return F.linear(input, self.weight, self.bias)
+[rank0]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 78.00 MiB. GPU 0 has a total capacity of 39.39 GiB of which 61.94 MiB is free. Process 189171 has 39.32 GiB memory in use. Of the allocated memory 38.06 GiB is allocated by PyTorch, and 457.62 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

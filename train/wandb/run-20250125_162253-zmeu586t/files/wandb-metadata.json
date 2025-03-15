@@ -1,0 +1,99 @@
+{
+  "os":  "Linux-5.15.0-18-shopee-generic-x86_64-with-glibc2.35",
+  "python":  "3.9.19",
+  "startedAt":  "2025-01-25T16:22:53.351180Z",
+  "args":  [
+    "--lr",
+    "4e-6",
+    "--weight_decay",
+    "1e-2",
+    "--log_scale",
+    "4.6052",
+    "--lora_rank",
+    "-1",
+    "--common_pair",
+    "0.0",
+    "--para_gamma",
+    "0.05",
+    "--exp_name",
+    "rebutal2",
+    "--warmup_length",
+    "5000",
+    "--amp",
+    "--pos_embed",
+    "",
+    "--resume"
+  ],
+  "program":  "/home/aiops/wangzh/zss/AlphaCLIP/train/train/train_neg_rebutal.py",
+  "codePath":  "train/train/train_neg_rebutal.py",
+  "git":  {
+    "remote":  "https://github.com/SunzeY/AlphaCLIP.git",
+    "commit":  "3457474356108988bed7f0354a5cfeeeb8322aeb"
+  },
+  "email":  "1186358709@qq.com",
+  "root":  "/home/aiops/wangzh/zss/AlphaCLIP/train",
+  "host":  "cliplarge-cd114d-job-64csx",
+  "username":  "sailor",
+  "executable":  "/home/aiops/wangzh/miniconda3/envs/depth/bin/python",
+  "codePathLocal":  "train/train_neg_rebutal.py",
+  "cpu_count":  96,
+  "cpu_count_logical":  192,
+  "gpu":  "[, , , , , , , ]",
+  "gpu_count":  8,
+  "disk":  {
+    "/":  {
+      "total":  "471168180224",
+      "used":  "235843792896"
+    }
+  },
+  "memory":  {
+    "total":  "1081349521408"
+  },
+  "cpu":  {
+    "count":  96,
+    "countLogical":  192
+  },
+  "gpu_nvidia":  [
+    {
+      "memoryTotal":  "85899345920",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    },
+    {
+      "memoryTotal":  "85899345920",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    },
+    {
+      "memoryTotal":  "85899345920",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    },
+    {
+      "memoryTotal":  "85899345920",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    },
+    {
+      "memoryTotal":  "85899345920",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    },
+    {
+      "memoryTotal":  "85899345920",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    },
+    {
+      "memoryTotal":  "85899345920",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    },
+    {
+      "memoryTotal":  "85899345920",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.3"
+}

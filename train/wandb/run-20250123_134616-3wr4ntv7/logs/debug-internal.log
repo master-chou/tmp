@@ -1,0 +1,19 @@
+{"time":"2025-01-23T13:46:16.518946834Z","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2025-01-23T13:46:16.51896079Z","level":"INFO","msg":"created symlink","path":"/home/aiops/wangzh/zss/AlphaCLIP/train/wandb/run-20250123_134616-3wr4ntv7/logs/debug-core.log"}
+{"time":"2025-01-23T13:46:16.541615061Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2025-01-23T13:46:16.577508777Z","level":"INFO","msg":"created new stream","id":"3wr4ntv7"}
+{"time":"2025-01-23T13:46:16.577537931Z","level":"INFO","msg":"stream: started","id":"3wr4ntv7"}
+{"time":"2025-01-23T13:46:16.57755357Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"3wr4ntv7"}}
+{"time":"2025-01-23T13:46:16.577571023Z","level":"INFO","msg":"handler: started","stream_id":{"value":"3wr4ntv7"}}
+{"time":"2025-01-23T13:46:16.577564861Z","level":"INFO","msg":"sender: started","stream_id":{"value":"3wr4ntv7"}}
+{"time":"2025-01-23T13:46:17.299856072Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-01-23T13:46:17.308442341Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-23T13:46:21.941563103Z","level":"INFO","msg":"stream: closing","id":"3wr4ntv7"}
+{"time":"2025-01-23T13:46:21.941637651Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-23T13:46:21.945898731Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-23T13:46:26.944728194Z","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2025-01-23T13:46:29.845462058Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-23T13:46:30.188128138Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"3wr4ntv7"}}
+{"time":"2025-01-23T13:46:30.188173983Z","level":"INFO","msg":"sender: closed","stream_id":{"value":"3wr4ntv7"}}
+{"time":"2025-01-23T13:46:30.188156531Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"3wr4ntv7"}}
+{"time":"2025-01-23T13:46:30.190916217Z","level":"INFO","msg":"stream: closed","id":"3wr4ntv7"}

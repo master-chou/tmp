@@ -1,0 +1,1 @@
+{"Loss/train":0.00692401546984911,"epoch":4,"_timestamp":1.7377537351003733e+09,"logit_scale/train":4.605184555053711,"step":4800,"_runtime":2453.301993537,"_wandb":{"runtime":2741},"_step":6,"hyper/lr":3.8408e-06,"info":"load resumed checkpoint: iter_4000.pth","loss":0}

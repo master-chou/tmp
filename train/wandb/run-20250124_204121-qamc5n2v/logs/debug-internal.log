@@ -1,0 +1,18 @@
+{"time":"2025-01-24T20:41:21.829436362Z","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2025-01-24T20:41:21.829452813Z","level":"INFO","msg":"created symlink","path":"/home/aiops/wangzh/zss/AlphaCLIP/train/wandb/run-20250124_204121-qamc5n2v/logs/debug-core.log"}
+{"time":"2025-01-24T20:41:21.873987844Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2025-01-24T20:41:21.888752138Z","level":"INFO","msg":"created new stream","id":"qamc5n2v"}
+{"time":"2025-01-24T20:41:21.888770523Z","level":"INFO","msg":"stream: started","id":"qamc5n2v"}
+{"time":"2025-01-24T20:41:21.888783707Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qamc5n2v"}}
+{"time":"2025-01-24T20:41:21.888796601Z","level":"INFO","msg":"sender: started","stream_id":{"value":"qamc5n2v"}}
+{"time":"2025-01-24T20:41:21.888793655Z","level":"INFO","msg":"handler: started","stream_id":{"value":"qamc5n2v"}}
+{"time":"2025-01-24T20:41:22.82032862Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-01-24T20:41:22.829466058Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T21:27:03.492442589Z","level":"INFO","msg":"stream: closing","id":"qamc5n2v"}
+{"time":"2025-01-24T21:27:03.492511547Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T21:27:03.499231071Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T21:27:05.32985313Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T21:27:05.644426753Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"qamc5n2v"}}
+{"time":"2025-01-24T21:27:05.644462429Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qamc5n2v"}}
+{"time":"2025-01-24T21:27:05.644489439Z","level":"INFO","msg":"sender: closed","stream_id":{"value":"qamc5n2v"}}
+{"time":"2025-01-24T21:27:05.646482042Z","level":"INFO","msg":"stream: closed","id":"qamc5n2v"}

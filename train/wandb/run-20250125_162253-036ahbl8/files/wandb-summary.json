@@ -1,0 +1,1 @@
+{"step":4800,"_wandb":{"runtime":2602},"hyper/lr":3.8408e-06,"epoch":4,"loss":0,"Loss/train":0.006949068047106266,"info":"load resumed checkpoint: iter_4000.pth","_runtime":2337.220157715,"_step":6,"logit_scale/train":4.605199813842773,"_timestamp":1.737824510771408e+09}

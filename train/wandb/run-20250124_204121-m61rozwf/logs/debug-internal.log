@@ -1,0 +1,18 @@
+{"time":"2025-01-24T20:41:21.872992789Z","level":"INFO","msg":"using version","core version":"0.18.2"}
+{"time":"2025-01-24T20:41:21.873009309Z","level":"INFO","msg":"created symlink","path":"/home/aiops/wangzh/zss/AlphaCLIP/train/wandb/run-20250124_204121-m61rozwf/logs/debug-core.log"}
+{"time":"2025-01-24T20:41:21.873771283Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2025-01-24T20:41:21.886460709Z","level":"INFO","msg":"created new stream","id":"m61rozwf"}
+{"time":"2025-01-24T20:41:21.886479834Z","level":"INFO","msg":"stream: started","id":"m61rozwf"}
+{"time":"2025-01-24T20:41:21.886484753Z","level":"INFO","msg":"handler: started","stream_id":{"value":"m61rozwf"}}
+{"time":"2025-01-24T20:41:21.886488971Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"m61rozwf"}}
+{"time":"2025-01-24T20:41:21.88649391Z","level":"INFO","msg":"sender: started","stream_id":{"value":"m61rozwf"}}
+{"time":"2025-01-24T20:41:22.569554357Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-01-24T20:41:22.577921937Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-24T21:27:01.271209891Z","level":"INFO","msg":"stream: closing","id":"m61rozwf"}
+{"time":"2025-01-24T21:27:01.271298355Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-24T21:27:01.277641842Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-24T21:27:05.870286085Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-24T21:27:06.251067275Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"m61rozwf"}}
+{"time":"2025-01-24T21:27:06.251104464Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"m61rozwf"}}
+{"time":"2025-01-24T21:27:06.251125764Z","level":"INFO","msg":"sender: closed","stream_id":{"value":"m61rozwf"}}
+{"time":"2025-01-24T21:27:06.253769313Z","level":"INFO","msg":"stream: closed","id":"m61rozwf"}
